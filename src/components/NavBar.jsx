@@ -25,7 +25,7 @@ function NavBar() {
         )
     })
   return (
-    <nav>
+    <nav className=''>
         <div>
             <a href="#home" className='flex items-center gap-2'>
                 <img src="/images/logo.png" alt="" />
